@@ -201,13 +201,13 @@ pip install pandas numpy scipy
 ### Quick Start
 ```python
 # Clone repository
-git clone https://github.com/yourusername/healthcare-chi-square-statistical-significance-analysis.git
+git clone https://github.com/RSOmi05/Cardiovascular-disease-risk-factors-identification-with-statistical-chi-square-significance-analysis.git
 
 # Navigate to directory
-cd healthcare-chi-square-statistical-significance-analysis
+cd Cardiovascular-disease-risk-factors-identification-with-statistical-chi-square-significance-analysis
 
 # Run analysis
-python chi_square_analysis.py
+python chi_square_analysis.ipynb
 ```
 
 ### Usage Example
